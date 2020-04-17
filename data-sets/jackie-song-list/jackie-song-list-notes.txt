@@ -1,0 +1,15 @@
+# This is how I got the processed list from the original:
+
+cat jackie-song-list-original.txt                                         \
+  | cut -d. -f2                                                           \
+  | sed 's/^ *//g'                                                        \
+  | grep "\S"                                                             \
+  | rexe -op -r rails -ml titleize                                        \
+  | rexe -op -ml "gsub('The ', 'the ').gsub('Of ', 'of ').gsub('For ', 'for ').gsub('A ', 'a ').gsub('Or ', 'or ').gsub('And ', 'and ').gsub('From ', 'from ').gsub('In ', 'in ')" \
+  | sort > jackie-song-list-processed.txt
+
+# and this is how I got the JSON from the processed list (need to install Ruby and then `gem install rexe`):
+
+
+rexe -f jackie-song-list-processed.txt -mb -oJ 'self.split("\n").to_a' > jackie-song-list-processed.json
+
