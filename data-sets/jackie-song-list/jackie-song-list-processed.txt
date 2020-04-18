@@ -1,17 +1,13 @@
 All That I Am
-All That I Am
 Am I Just Wasting My Time
-Am I Ready (from "Spinout")
-Am I Ready?
+Am I Ready
 Angel
-Angel (from "Follow That Dream")
 Angel in the Fountain The
 At the Music Shop
 At the Sav a Penny Super Store
 Baciagaloop
 Back in My Own Home Town
 Bagel and Lox
-Banana
 Banana
 Beach Boy Blues
 Beggar or King
@@ -34,18 +30,19 @@ Counterfeit Kisses
 D in Love
 Dance With Me
 Date for Always A
-Don T Be Mad At Me
-Don T Come Running Back
+Don't Be Mad At Me
+Don't Come Running Back
 Dream Boy Dream
 Dreamy Dolls of Duesseldorf
 Drums of the Islands
 Earth Boy
 Echoes of Love
-Egbert the Easter Egg
+Eggbert the Easter Egg
 Eighty Six
 Flaming Star Cues
 Flying Saucers
 Fool Like Me
+For the Millionth and the Last Time
 Fort Lauderdale Chamber of Commerce
 Forty Nine Shades of Green
 Francis
@@ -60,7 +57,7 @@ Goodbye Boys Goodbye
 Googie Woogie
 Great Adventure The
 Have Heart Will Love
-Hawaiian Sunset (From: Blue Hawaii)
+Hawaiian Sunset
 Here Pretty Kitty
 Hey Mabel
 Holding On
@@ -76,11 +73,9 @@ I Don't Want To Live Without You
 I Found a Rose
 I Had a Little Too Much
 I Know Only One Way
-I Know a Boy
 I Know a Girl
 I Like Christmas
 I Love An Old Fashioned
-I Love Only One Girl
 I Love Only One Girl
 I Miss You So Much
 I Offer You
@@ -98,6 +93,9 @@ I've Got a Crush On New York
 Ice Cream Man
 If I Had a Girl
 If You're Not
+In Italy
+In Love
+In a Little Corner
 Is It Yes Is It No
 Is There a Teenager
 Island of Love
@@ -115,7 +113,7 @@ Just a Simple Melody
 Just for Old Times Sake
 Kewpie Doll
 Kind
-Kismet (from "Harum Scarum")
+Kismet
 Kiss from Cora
 Kissin Cousins Cues
 Kissing Tree
@@ -140,7 +138,7 @@ Mama Papa Do the Twist
 Mama Says
 Mary Smith
 Marybelle Polka
-Mexico (from "Fun in Acapulco")
+Mexico
 Milkman's Polka
 Million Tears Ago
 Mine
@@ -149,7 +147,7 @@ Missing Angel
 Mister Love
 Money, Money, Money
 My Bonnie Lassie
-My Heart S in the Ring
+My Heart's in the Ring
 Nancy Knew
 Naughty Lady of Shady Lane
 New Orleans
@@ -158,7 +156,7 @@ Nothing for Christmas
 On Est Bien Comme
 On London Bridge
 Once I Had a Heart
-Once Is Enough (from "Kissing Cousins")
+Once Is Enough
 One Blade of Grass
 One Kiss
 One Little Candle
@@ -171,7 +169,7 @@ Palace of Love
 Pappy Won't You Please Come Home
 Pictures
 Pray for Me Mother
-Puppet On a String (from "Girl Happy")
+Puppet On a String
 Question and Answer Polka
 Red Roses for a Blue Lady
 Relax
@@ -211,7 +209,6 @@ Strangers in the Starlight
 Sugaree
 Summer Serenade
 Summer Sounds
-Susie Snowflake
 Suzy Snowflake
 Sweetheart Waltz
 Take Me To the Fair
@@ -224,7 +221,7 @@ That Lucky Old
 That's My Girl
 There Are Two I's in Dixie
 There's a Little Song a Sin
-There's a New Man 
+There's a New Man
 Thirteen
 This Is Your Band Review
 Three Little Peggies
@@ -257,7 +254,3 @@ Young Emotions
 Young Hearts
 Young Ones
 Zoomah the Santa Claus
-for the Millionth and the Last Time
-in Italy
-in Love 
-in a Little Corner
