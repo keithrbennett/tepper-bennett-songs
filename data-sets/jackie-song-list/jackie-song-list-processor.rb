@@ -6,29 +6,25 @@ require 'yaml'
 
 
 SUBSTITUTIONS = {
-    'A '     => 'a ',
-    'And '   => 'and ',
-    'Egbert'   => 'Eggbert',
-    'For '   => 'for ',
-    'From '  => 'from ',
-    'In '    => 'in ',
-    'Of '    => 'of ',
-    'Or '    => 'or ',
-    'The '   => 'the ',
-    'Heart S'  => "Heart's",
+    'A '                => 'a ',
+    'And '              => 'and ',
+    /^Don T/            => "Don't",
+    'Egbert'            => 'Eggbert',
+    'For '              => 'for ',
+    /\s+\(FROM:? .*\)/i => '',         # Remove " (From movie name)":
+    'From '             => 'from ',
+    'In '               => 'in ',
+    'Of '               => 'of ',
+    'Or '               => 'or ',
+    'The '              => 'the ',
+    'Heart S'           => "Heart's",
     'Nothing For Christmas' => "Nuttin' for Christmas"
 }
 
 original_lines = File.readlines('jackie-song-list-original.txt')
 
 titles = original_lines.map do |line| \
-  line.split('.') \
-  .last \
-  .strip \
-  .gsub(/^DON T/, "Don't") \
-  # Remove " (From movie name)":
-  .gsub(/\s+\(FROM:? .*\)/, '') \
-  .titleize
+  line.split('.').last.strip.titleize
 end
 
 titles.reject!(&:empty?)
@@ -42,6 +38,7 @@ end
 titles.sort!
 titles.uniq!
 
+# The titles listed are duplicates of existing titles; remove them.
 titles -= [
     'Am I Ready?',
     'Angel (From "Follow That Dream")',
